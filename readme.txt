@@ -12,4 +12,4 @@ Virtualization options Part 2: https://youtu.be/ht1vqcXaqPM
 
 GNS3 VMware Workstation Player allows you to run nested Virtualization for free. Download the VMware Player from the VMware website and the GNS3 VM from the GNS3 website. Then integrate the GNS3 GUI with the GNS3 VM and run complex network topologies.
 
-Download free Engineer's toolset from here: https://goo.gl/613TUF
+Download free Engineer's toolset from here: https://goo.gl/613TUFwhoami
